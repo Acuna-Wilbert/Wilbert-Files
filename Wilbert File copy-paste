@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>DAN XANDER</title>
+</head>
+
+<body>
+    <h1>WILBERT ACUNA FILES</h1>
+    <hr>
+    <h2>The Acuna Codes</h2>
+    <hr>
+    <h3>Introduction</h3>
+    <p>Coding is one of the most in-demand job skills in the modern job market. It is needed on corporate, software engineering or general computer science companies and jobs.
+    <br>IT or Information Technology is one of the job branches in the world of coding. This is where coding skills come in and become essential.<br>
+    Coding skills include utilizing and making a product through coding languages mentioned below. And, with the implementation of AI or Artificial Intelligence, <br>
+    Coding in todays society has never been easier until today.
+
+    </p>
+    <b>The Coding Languages used in IT</b>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <li>C++</li>
+        <li>Python</li>
+    </ul>
+    <b>Steps in GitHub</b>
+    <ol>
+        <li>Make an account</li>
+        <li>Make a repository folder</li>
+        <li>Create a seperate folder in desktop or windows</li>
+        <li>Open that folder on your repository</li>
+        <li>Add a file inside that same folder</li>
+        <li>Open the file and input the code</li>
+        <li>Commit changes</li>
+
+
+    </ol>
+</body>
+
+</html>
